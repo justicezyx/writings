@@ -1,6 +1,7 @@
 # Google's global scale engineering
 
 **Disclaimer #1, all content are from publicly available materials.**
+
 **Disclaimer #2, all opinions are my own.**
 
 This article is a high level description of how Google does global scale engineering, based on my 6 years of practice as a software engineer at Google, and observations on Google's broad engineering practices.
